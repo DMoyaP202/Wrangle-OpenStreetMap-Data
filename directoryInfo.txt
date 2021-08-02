@@ -1,0 +1,15 @@
+Mode                 LastWriteTime         Length Name                                                                 
+----                 -------------         ------ ----                                                                 
+d-----          8/1/2021   3:54 PM                .ipynb_checkpoints                                                   
+d-----          8/1/2021   5:07 PM                __pycache__                                                          
+-a----          8/1/2021   5:17 PM       84661736 atx.osm                                                              
+-a----          7/3/2021   4:41 PM     1677114318 austin.osm                                                           
+-a----          8/1/2021   6:46 PM       34541568 austin_osm.db                                                        
+-a----          8/1/2021   7:01 PM              0 directoryInfo.txt                                                    
+-a----          8/1/2021   6:33 PM       34808334 nodes.csv                                                            
+-a----          8/1/2021   6:33 PM         708330 nodes_tags.csv                                                       
+-a----         7/13/2021   1:25 PM           2373 schema.py                                                            
+-a----          8/1/2021   6:33 PM        2811375 ways.csv                                                             
+-a----          8/1/2021   6:33 PM        9898852 ways_nodes.csv                                                       
+-a----          8/1/2021   6:33 PM        3959820 ways_tags.csv                                                        
+-a----          8/1/2021   6:48 PM          54876 Wrangle_OpenStreetMap_Data.ipynb                                     
